@@ -1,0 +1,3 @@
+flask
+request.json/form
+dict working https://www.youtube.com/watch?v=iMG29UpCRZQ
